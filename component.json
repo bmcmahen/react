@@ -1,0 +1,7 @@
+{
+  "name": "react",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
